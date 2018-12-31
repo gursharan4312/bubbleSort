@@ -1,4 +1,4 @@
-package Singh_Gursharan_Assignment1;
+package bubbleSort;
 
 import java.util.ArrayList;
 
