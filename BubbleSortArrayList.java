@@ -1,5 +1,3 @@
-package Singh_Gursharan_Assignment1;
-
 import java.util.ArrayList;
 import java.util.Scanner;
 
